@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping()
     public String get(){
-        return "Status OK !";
+        return "Status OK Pipline!";
     }
 
 }
